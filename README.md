@@ -32,7 +32,7 @@ The project consists of three main modules: login, quiz, and user management.
 - Local database (for user management)
 
 ## How to Run
-1. Open the solution file (`YourSolutionName.sln`) in Visual Studio
+1. Open the solution file (`projecto_final.sln`) in Visual Studio
 2. Build the solution
 3. Run the application
 4. Navigate through the login, quiz, and user management modules
