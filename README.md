@@ -30,6 +30,7 @@ The project consists of three main modules: login, quiz, and user management.
 - C#  
 - Windows Forms  
 - Local database (for user management)
+- Guna Framework - .NET UI/UX
 
 ## How to Run
 1. Open the solution file (`projecto_final.sln`) in Visual Studio
